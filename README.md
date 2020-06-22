@@ -1,7 +1,7 @@
 
 <h1>
-   <p  align="center">
-      <img src= "https://res.cloudinary.com/dyqsffvre/image/upload/v1592819744/rsz_github_zoigm3.png"/>
+<p  align="center">
+<img src= "https://res.cloudinary.com/dyqsffvre/image/upload/v1592819744/rsz_github_zoigm3.png"/>
 Github Developers
 </p>
 </h1>
