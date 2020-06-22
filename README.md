@@ -35,7 +35,8 @@ Developers
 <div  align="center">
 
 The web application is responsible for registering github accounts.
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/51189721/85257576-10b7c700-b434-11ea-87ef-137d6727ffe2.gif)
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/51189721/85277847-0dcbcf00-b452-11ea-99bf-1c2f669b9c3c.gif)
+
  
 
 
