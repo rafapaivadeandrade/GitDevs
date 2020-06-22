@@ -1,8 +1,9 @@
 
-<img src= "https://res.cloudinary.com/dyqsffvre/image/upload/v1592820074/rsz_1github_tyrrjq.png"/>
+
 <p  align="center">
+ <img src= "https://res.cloudinary.com/dyqsffvre/image/upload/v1592819744/rsz_github_zoigm3.png/>
 <h1>
-Github Developers
+Developers
  </h1>
 </p>
 
