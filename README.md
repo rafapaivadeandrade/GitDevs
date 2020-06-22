@@ -1,10 +1,7 @@
 
-
-<p  align="center">
  <img src= "https://res.cloudinary.com/dyqsffvre/image/upload/v1592819744/rsz_github_zoigm3.png/>
-<h1>
+<p  align="center">
 Developers
- </h1>
 </p>
 
 
