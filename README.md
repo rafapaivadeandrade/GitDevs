@@ -1,41 +1,22 @@
 
-
+<h1>
+   <p  align="center">
 Github Developers
-
+</p>
 </h1>
 
-
-<div  align="center">
-
-   <h3>Register an Account </h3>
-
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/51189721/85257576-10b7c700-b434-11ea-87ef-137d6727ffe2.gif)
-
-   <h3>Search Github Account</h3>
-
-
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/51189721/85258051-caaf3300-b434-11ea-8af8-fd8e3408deea.gif)
-
-<h2>Detail:</h2>
-<p>New github users appear on live when they are registered.</p>
-
-</div>
-
-
-
-  
-
+ 
 ## ℹ️ About
 
   
 
 <div  align="center">
 
-  
+ 
 
 <p  align="center">
 
-Github Developers is a project to register and search github profiles.
+ Github Developers is a project to register and search github profiles.
 
 </p>
 
@@ -51,21 +32,23 @@ Github Developers is a project to register and search github profiles.
   
 
 The web application is responsible for registering github accounts.
-
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/51189721/85257576-10b7c700-b434-11ea-87ef-137d6727ffe2.gif)
  
-The mobile application is where people can search github profiles on a range of maximum 10 kilometers.
+
 
 <div  align="center">
-
+The mobile application is where people can search github profiles on a range of maximum 10 kilometers.
 
 <br/>
 
 Available for Android and iOS.
 <br/>
- ![44t11r](https://user-images.githubusercontent.com/51189721/84429725-a8c4dd80-abf6-11ea-97ca-10b3bf374260.gif) ![44t0uj](https://user-images.githubusercontent.com/51189721/84429724-a6fb1a00-abf6-11ea-9fc2-564c1caec05c.gif)
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/51189721/85258051-caaf3300-b434-11ea-8af8-fd8e3408deea.gif)
 
 </div>
 
+<h2>Detail:</h2>
+<p>New github users appear on live when they are registered.</p>
   
 
 ## 🖥 Technologies
