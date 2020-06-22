@@ -1,5 +1,5 @@
 
- <img src= "https://res.cloudinary.com/dyqsffvre/image/upload/v1592819744/rsz_github_zoigm3.png/>
+ <img src= "https://res.cloudinary.com/dyqsffvre/image/upload/v1592819744/rsz_github_zoigm3.png"/>
 <p  align="center">
 Developers
 </p>
