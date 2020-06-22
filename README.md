@@ -30,13 +30,13 @@ Github Developers
 ## 👁 Preview
 
   
+<div  align="center">
 
 The web application is responsible for registering github accounts.
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/51189721/85257576-10b7c700-b434-11ea-87ef-137d6727ffe2.gif)
  
 
 
-<div  align="center">
 The mobile application is where people can search github profiles on a range of maximum 10 kilometers.
 
 <br/>
