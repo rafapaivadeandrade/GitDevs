@@ -71,9 +71,9 @@ The project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/)
 
--- [Mongoose](https://www.npmjs.com/package/mongoose)
+- [Mongoose](https://www.npmjs.com/package/mongoose)
 
---[WebSocket](https://www.npmjs.com/package/react-websocket)
+-[WebSocket](https://www.npmjs.com/package/react-websocket)
   
 
 </details>
