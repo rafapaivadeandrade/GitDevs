@@ -6,7 +6,13 @@ Developers
   </h1>
 </p>
 
-
+<p align="center">
+  <a href="#-About">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;\
+ <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-Getting-Started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
  
 ## ℹ️ About
 
@@ -137,7 +143,7 @@ The project was developed with the following technologies:
 
   
 
-## 🚀 Getting started
+## 🚀 Getting Started
 
   
 
