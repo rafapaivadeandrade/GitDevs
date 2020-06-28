@@ -18,11 +18,11 @@ Developers
 
   
 
-<div  align="center">
+<div >
 
  
 
-<p  align="center">
+<p >
 
  Github Developers is a project to register and search github profiles.
 
@@ -38,7 +38,7 @@ Developers
 ## 👁 Preview
 
   
-<div  align="center">
+<div >
 
 The web application is responsible for registering github accounts.
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/51189721/85277847-0dcbcf00-b452-11ea-99bf-1c2f669b9c3c.gif)
