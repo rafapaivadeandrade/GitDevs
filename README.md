@@ -80,7 +80,7 @@ The project was developed with the following technologies:
 
 - [Mongoose](https://www.npmjs.com/package/mongoose)
 
--[WebSocket](https://www.npmjs.com/package/react-websocket)
+- [WebSocket](https://www.npmjs.com/package/react-websocket)
   
 
 </details>
